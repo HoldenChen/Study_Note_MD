@@ -1,3 +1,7 @@
+#0 创建React项目    
+`create-react-app project-name`
+
+
 #1 启动一个React项目的调试服务器。
 
 前端开发服务器  在 `localhost:3000`上访问
@@ -11,3 +15,4 @@
 ```
     node server.js
 ```
+
